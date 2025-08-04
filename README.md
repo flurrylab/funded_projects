@@ -1,2 +1,2 @@
 # funded_projects
-Mono repo for Flurrylab funded projects
+Monorepo for FlurryLab-funded projects
